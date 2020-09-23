@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EFM32GG11B8xx-QFN64
+D 32-bit ARM Cortex-M4 microcontroller, Silicon Labs - Giant Gecko S1, QFN-64
+K MCU microcontroller silicon labs siliconlabs silabs EFM32 giant gecko
+F https://www.silabs.com/documents/public/data-sheets/efm32gg11-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
